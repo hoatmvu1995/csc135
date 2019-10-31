@@ -1,0 +1,11 @@
+/*
+* Ngoc Pham, Hoat Vu, Sangwook Park 
+* Assignment 1
+* 5 Test cases 
+*/
+
+1. CXDBS;E$
+2. CXDBS,I,C,D;E$
+3. CXDBS,I,C,D;PSM(S,I,C,D)BY1=2*2+3*2;RY1;EE$
+4. CXDBS,I,C,D;PSM(C,D)BF(2=3)TBZ3=1*2+3*2;ERZ3;EE$
+5. CXDBS,I,C,D;PSM(C,D)BW(1<2)TBZ2=3*3+2;ERY1;EE$
